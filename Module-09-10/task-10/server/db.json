@@ -1,0 +1,197 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectName": "Scoreboard",
+      "colorClass": "color-scoreboard"
+    },
+    {
+      "id": 2,
+      "projectName": "Flight Booking",
+      "colorClass": "color-flight"
+    },
+    {
+      "id": 3,
+      "projectName": "Product Cart",
+      "colorClass": "color-productCart"
+    },
+    {
+      "id": 4,
+      "projectName": "Book Store",
+      "colorClass": "color-bookstore"
+    },
+    {
+      "id": 5,
+      "projectName": "Blog Application",
+      "colorClass": "color-blog"
+    },
+    {
+      "id": 6,
+      "projectName": "Job Finder",
+      "colorClass": "color-jobFinder"
+    }
+  ],
+  "team": [
+    {
+      "name": "Sumit Saha",
+      "avatar": "/images/avatars/sumit.png",
+      "id": 1
+    },
+    {
+      "name": "Saad Hasan",
+      "avatar": "/images/avatars/sadh.png",
+      "id": 2
+    },
+    {
+      "name": "Akash Ahmed",
+      "avatar": "/images/avatars/akash.png",
+      "id": 3
+    },
+    {
+      "name": "Md Salahuddin",
+      "avatar": "/images/avatars/salahuddin.png",
+      "id": 4
+    },
+    {
+      "name": "Riyadh Hassan",
+      "avatar": "/images/avatars/riyadh.png",
+      "id": 5
+    },
+    {
+      "name": "Ferdous Hassan",
+      "avatar": "/images/avatars/ferdous.png",
+      "id": 6
+    },
+    {
+      "name": "Arif Almas",
+      "avatar": "/images/avatars/almas.png",
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "taskName": "Task One",
+      "teamMember": {
+        "name": "Akash Ahmed",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Product Cart",
+        "colorClass": "color-productCart"
+      },
+      "deadline": "2023-03-15",
+      "id": 1,
+      "status": "inProgress"
+    },
+    {
+      "taskName": "New Task-updated",
+      "teamMember": {
+        "name": "Riyadh Hassan",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Scoreboard",
+        "colorClass": "color-scoreboard"
+      },
+      "deadline": "2023-03-11",
+      "id": 4,
+      "status": "complete"
+    },
+    {
+      "taskName": "Fix a bug Updated",
+      "teamMember": {
+        "name": "Md Salahuddin"
+      },
+      "deadline": "2023-03-18",
+      "project": {
+        "projectName": "Book Store",
+        "colorClass": "color-bookstore"
+      },
+      "id": 5,
+      "status": "completed"
+    },
+    {
+      "taskName": "New Task-Updated-03",
+      "teamMember": {
+        "name": "Md Salahuddin"
+      },
+      "project": {
+        "projectName": "Book Store",
+        "colorClass": "color-bookstore"
+      },
+      "deadline": "2023-08-30",
+      "status": "pending",
+      "id": 6
+    },
+    {
+      "taskName": "Ecommerce Task",
+      "teamMember": {
+        "name": "Saad Hasan",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Job Finder",
+        "colorClass": "color-jobFinder"
+      },
+      "deadline": "2023-08-30",
+      "status": "pending",
+      "id": 10
+    },
+    {
+      "taskName": "Task-11",
+      "teamMember": {
+        "name": "Ferdous Hassan",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Blog Application",
+        "colorClass": "color-blog"
+      },
+      "deadline": "2023-08-30",
+      "status": "pending",
+      "id": 11
+    },
+    {
+      "taskName": "Task-02",
+      "teamMember": {
+        "name": "Arif Almas",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Flight Booking",
+        "colorClass": "color-flight"
+      },
+      "deadline": "2023-08-31",
+      "status": "pending",
+      "id": 12
+    },
+    {
+      "taskName": "Booking-task",
+      "teamMember": {
+        "name": "Md Salahuddin",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Product Cart",
+        "colorClass": "color-productCart"
+      },
+      "deadline": "2023-08-21",
+      "status": "pending",
+      "id": 13
+    },
+    {
+      "taskName": "todo-task",
+      "teamMember": {
+        "name": "Md Salahuddin",
+        "avatar": "/images/avatars/sadh.png"
+      },
+      "project": {
+        "projectName": "Product Cart",
+        "colorClass": "color-productCart"
+      },
+      "deadline": "2023-08-30",
+      "status": "pending",
+      "id": 14
+    }
+  ]
+}

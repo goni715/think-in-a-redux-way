@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "Rent Expense",
+      "type": "expense",
+      "amount": 600,
+      "id": 1
+    },
+    {
+      "name": "Laptop Sell",
+      "type": "income",
+      "amount": 5000,
+      "id": 2
+    }
+  ]
+}

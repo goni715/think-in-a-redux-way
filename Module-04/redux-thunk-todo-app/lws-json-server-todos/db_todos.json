@@ -1,0 +1,72 @@
+{
+  "todos": [
+    {
+      "text": "Html",
+      "completed": false,
+      "id": 25,
+      "color": "red"
+    },
+    {
+      "text": "Learn with Sumit",
+      "completed": false,
+      "id": 26,
+      "color": "green"
+    },
+    {
+      "text": "CSS",
+      "completed": true,
+      "id": 27,
+      "color": "green"
+    },
+    {
+      "text": "Tailwind css",
+      "completed": true,
+      "id": 28,
+      "color": "red"
+    },
+    {
+      "text": "React js",
+      "completed": true,
+      "id": 29,
+      "color": "yellow"
+    },
+    {
+      "text": "Think in a Redux way",
+      "completed": false,
+      "id": 30,
+      "color": "red"
+    },
+    {
+      "text": "Node js",
+      "completed": true,
+      "id": 31,
+      "color": "yellow"
+    },
+    {
+      "text": "Express Rest api",
+      "completed": false,
+      "id": 32,
+      "color": "green"
+    },
+    {
+      "text": "Jquery",
+      "completed": false,
+      "id": 33
+    },
+    {
+      "text": "Bootstrap",
+      "completed": false,
+      "id": 34
+    },
+    {
+      "text": "PHP",
+      "completed": false,
+      "id": 35
+    },
+    {
+      "text": "Laravel",
+      "completed": false,
+      "id": 36
+    }
+  ]
+}
